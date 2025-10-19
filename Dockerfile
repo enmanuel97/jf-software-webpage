@@ -23,7 +23,7 @@ FROM node:18-alpine AS runner
 WORKDIR /app
 
 # Establece la variable de entorno para producción
-ENV NODE_ENV production
+ENV NODE_ENV=production
 
 # Copia las dependencias necesarias desde el builder
 COPY --from=builder /app/. ./
