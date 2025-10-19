@@ -15,6 +15,12 @@ export const metadata: Metadata = {
         url: "https://jesusenmanuel.netlify.app/",
     },
     keywords: [
+        "jfsoftware",
+        "jf software",
+        "jf software soluciones",
+        "jf software desarrollo",
+        "jf software aplicaciones",
+        "jf software diseño",
         "desarrollo de software",
         "web development",
         "empresa desarrollo de software",
