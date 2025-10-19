@@ -1,5 +1,5 @@
 # Etapa 1: Instalación de dependencias y construcción
-FROM node:18-alpine AS builder
+FROM node:20-alpine AS builder
 
 # Establece el directorio de trabajo
 WORKDIR /app

@@ -8,16 +8,16 @@ import { Footer } from "@/components/footer"
 import { ScrollToTop } from "@/components/scroll-to-top"
 
 export default function Home() {
-  return (
-    <main className="min-h-screen">
-      <Header />
-      <HeroSection />
-      <AboutSection />
-      <ServicesSection />
-      <ProcessSection />
-      <ContactSection />
-      <Footer />
-      <ScrollToTop />
-    </main>
-  )
+    return (
+        <main className="min-h-screen">
+            <Header />
+            <HeroSection />
+            <AboutSection />
+            <ServicesSection />
+            <ProcessSection />
+            <ContactSection />
+            <Footer />
+            <ScrollToTop />
+        </main>
+    )
 }

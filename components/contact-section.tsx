@@ -75,8 +75,7 @@ export function ContactSection() {
                     </div>
                     <div>
                       <h3 className="font-semibold mb-1">Teléfono</h3>
-                      <p className="text-sm text-muted-foreground">+1 (809) 555-0123</p>
-                      <p className="text-sm text-muted-foreground">+1 (829) 555-0456</p>
+                      <p className="text-sm text-muted-foreground">+1 (809) 906-0295</p>
                     </div>
                   </div>
                 </CardContent>
@@ -137,7 +136,7 @@ export function ContactSection() {
                         id="phone"
                         name="phone"
                         type="tel"
-                        placeholder="+1 (809) 555-0123"
+                        placeholder="+1 (809) 906-0295"
                         value={formData.phone}
                         onChange={handleChange}
                         className="h-11"

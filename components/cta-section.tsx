@@ -37,7 +37,7 @@ export function CTASection() {
                 </div>
                 <div className="flex items-center gap-2 justify-center">
                   <Phone className="h-4 w-4" />
-                  <span>+1 (809) 555-0123</span>
+                  <span>+1 (809) 906-0295</span>
                 </div>
               </div>
             </div>
