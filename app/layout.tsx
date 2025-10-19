@@ -48,6 +48,12 @@ export const metadata: Metadata = {
         "materiales de marketing",
         "soluciones creativas",
         "tecnología avanzada",
+        "jesus enmanuel de la cruz",
+        "jdelacruz",
+        "jdelacruz software",
+        "jdelacruz desarrollo",
+        "jdelacruz aplicaciones",
+        "jdelacruz diseño",
     ],
     robots: {
         index: true,
