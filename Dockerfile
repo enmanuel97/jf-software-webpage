@@ -7,9 +7,6 @@ WORKDIR /app
 # Copia package.json y package-lock.json
 COPY package*.json ./
 
-# Copia el archivo de entorno para staging
-COPY .env.example ./.env
-
 # Instala dependencias
 RUN npm install
 
